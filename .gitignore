@@ -1,3 +1,4 @@
-.env
 .fleet/
+*.log
 .fleet-deploy.log
+.env
